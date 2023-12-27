@@ -1,0 +1,7 @@
+path: C:/Vishodhan/College/INTERN/FOUNDATION/Project/knife and gun/data
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 2
+names: ['gun', 'knife']
